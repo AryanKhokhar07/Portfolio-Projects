@@ -1,4 +1,4 @@
-/*-----------------CLEANING DATA IN SQL QUERIES------------------------*/
+/*-----------------CLEANING AND ANALYSING DATA USING SQL QUERIES------------------------*/
 
 SELECT *
 FROM movies.dbo.movie
